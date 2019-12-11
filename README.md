@@ -9,4 +9,4 @@ Once compiled, excute with syntax:
 ```
 Where the first argument is the scale, second is the file to resize, and third is the scaled file's destination.
 
-Designed for HarvardX's CS50: Introduction to Computer Science Fall 2019
+> Designed for HarvardX's CS50: Introduction to Computer Science Fall 2019
