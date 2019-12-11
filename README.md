@@ -1,7 +1,7 @@
 # .BMP Resize
 
 Program to resize bitmap images by Unix command line, written in C. Resizes image by multiplying pixels by
-a user given scale (1-100) and saves the resulting .bmp image.
+a user given scale (1-100) and saves the resulting .bmp image. Requires <cs50.h> header file.
 
 Once compiled, excute with syntax:
 ```
